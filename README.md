@@ -76,3 +76,6 @@ $ docker build -t fastapi-filestore .
    
 # How to use 'filecmd'
 * [Follow to the page](filecmd.md)   
+
+# Preview 'index'
+![](/docs/img/index.png)
